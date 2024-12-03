@@ -1,0 +1,17 @@
+Collision Stats:
+
+Hash Function 1:
+Original Collisions (collisionct1):9197
+Post Collisions (collisionct2):92435
+
+Hash Function 2:
+Original Collisions (collisionct1):1641
+Post Collisions (collisionct2):3726
+
+Favorite quotes:
+1. "Today is not like our fish"
+2. "Just never mix up the fish"
+3. "Your mountain is your mother is something new."
+4. "Leaving crumbs Much too wet to a forest."
+5. "I would eat green eggs and puzzling"
+6. "this is Christmas! It's the fish in a train? Not with a tree. Not in the beaches."
